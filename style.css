@@ -1,0 +1,92 @@
+header{
+    background: linear-gradient(60deg, rgb(167, 12, 77), rgb(230, 50, 65), rgb(168, 20, 168));
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 80%;
+    height: auto;
+    margin-top: 40px;
+}
+#nav-bar{
+    position: fixed;
+    z-index: 2;
+    font-family: 'Goldman', cursive;
+    font-weight: 700;
+    display: flex;
+    font-size: 110%;
+    background: linear-gradient(60deg, rgb(87, 2, 68), rgb(202, 85, 167), rgb(235, 140, 206));
+}
+.aling{
+    text-align: center;
+}
+@media(max-width: 600px){
+
+    .boton{
+        color: rgb(0, 0, 0);
+        background-color: rgb(199, 29, 128);
+}}
+#welcome-section{
+   vertical-align: 50%;
+    font-family: 'Goldman', cursive;
+    padding-top: 40%;
+    color: white;
+    font-size: 30px;
+}
+h3{
+    font-family: 'Goldman', cursive;
+    color: white;
+    margin-top: 30px;
+}
+main{
+    background-color: black;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background: linear-gradient(-60deg, rgb(66, 15, 37), rgb(17, 7, 16), rgb(112, 3, 112));
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main .fab{
+    font-size: 50px;
+    margin-top: 20px;
+    color: rgb(128, 9, 98);
+}
+#click{
+    font-family: 'Goldman', cursive;
+    margin-top: 30px;
+    color: white;
+}
+main .fas{
+    color: rgb(128, 9, 98);
+}
+#frase{
+    font-family: 'Goldman', cursive;
+    margin-top: 40px;
+    color: white;
+    font-size: 25px;
+}
+#cafe{
+    font-family: 'Goldman', cursive;
+    color: white;
+    font-size: 20px;
+    margin-top: 35px;
+}
+.icon-footer{
+    color: rgb(238, 56, 192);
+    font-size: 40px;
+    margin: 40px 15px 0 10px;
+}
+.foot{
+    font-family: 'Goldman', cursive;
+    color: white;
+    font-size: 14px;
+    margin-top: 200px;
+}
+
+
+
